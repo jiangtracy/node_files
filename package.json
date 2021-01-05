@@ -7,5 +7,11 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "dns": "^0.2.2",
+    "extract-domain": "^2.2.1",
+    "psl": "^1.8.0"
+  }
 }
